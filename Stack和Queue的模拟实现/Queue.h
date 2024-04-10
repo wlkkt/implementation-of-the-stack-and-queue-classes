@@ -140,17 +140,4 @@ namespace bit
 	private:
 		Container _con;
 	
-	
-	};
-
-
-
-
-
-
-
-
-
-
-
 }
