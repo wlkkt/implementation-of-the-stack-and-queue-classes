@@ -1,6 +1,5 @@
 #pragma once
 
-
 namespace bit
 {
 	template<class T, class Container = deque<T>>
